@@ -1,6 +1,6 @@
 ﻿internal class Yenipogram
 {
-    private static void Main(string[] args)
+    private static void Main3(string[] args)
     {
         // Ödev 2 
         Console.WriteLine("Pozitif iki Sayı Giriniz. İlk Rakam: ");
