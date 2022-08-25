@@ -1,6 +1,6 @@
 ﻿internal class Program3
 {
-    private static void Main(string[] args)
+    private static void Main4(string[] args)
     {
         // Ödev 2 
         Console.WriteLine("Pozitif Bir Sayı Giriniz: ");
